@@ -1,1 +1,1 @@
-# gitops-register-app
+# devops-argocd
